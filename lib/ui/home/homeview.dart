@@ -1,5 +1,5 @@
-import 'package:datafolks_demo/models/reset.dart';
-import 'package:datafolks_demo/ui/home/homeviewmodel.dart';
+import 'package:scroll_demo/models/reset.dart';
+import 'package:scroll_demo/ui/home/homeviewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:datafolks_demo/models/option.dart';
+import 'package:scroll_demo/models/option.dart';
 
 class Options {
   Options({@required this.amount, @required this.name})

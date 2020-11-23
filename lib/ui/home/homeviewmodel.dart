@@ -1,5 +1,5 @@
-import 'package:datafolks_demo/data/localdata/localdata.dart';
-import 'package:datafolks_demo/models/options.dart';
+import 'package:scroll_demo/data/localdata/localdata.dart';
+import 'package:scroll_demo/models/options.dart';
 import 'package:stacked/stacked.dart';
 
 class HomeViewModel extends FutureViewModel {

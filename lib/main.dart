@@ -1,4 +1,4 @@
-import 'package:datafolks_demo/ui/home/homeview.dart';
+import 'package:scroll_demo/ui/home/homeview.dart';
 import 'package:flutter/material.dart';
 
 void main() {
